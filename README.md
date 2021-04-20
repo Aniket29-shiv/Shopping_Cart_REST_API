@@ -32,7 +32,7 @@ python api_mongo.py
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 
-- Demo Screenshots
+## Demo Screenshots
 
 * Postman Interface
 <img src="get_items.png" width=500/>
