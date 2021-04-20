@@ -35,9 +35,9 @@ python api_mongo.py
 ## Demo Screenshots
 
 * Postman Interface
-<img src="get_items.png" width=500/>
-<img src="put_item.png" width=500/>
-<img src="display_get_items.png" width=500/>
+<img src="demo/get_items.png" width=500/>
+<img src="demo/put_item.png" width=500/>
+<img src="demo/display_get_items.png" width=500/>
 
 * MongoDB Compass Interface
-<img src="updated_mongdbCompass.png" width=500/>
+<img src="demo/updated_mongdbCompass.png" width=500/>
