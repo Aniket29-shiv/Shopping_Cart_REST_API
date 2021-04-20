@@ -2,7 +2,14 @@
 
 ## CRUD APP in Flask Restful with MongoDB Compass
 
-- Instructions to get started 
+- [ ] Instructions to get started 
+
+Download zip file or clone the project
+```
+git clone https://github.com/Aniket29-shiv/Shopping_Cart_REST_API.git
+```
+
+Required modules
 ```
 pip install flask
 pip install flask-mongoengine (latest)
